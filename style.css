@@ -1,0 +1,14 @@
+span.ttip-span
+{
+	font-weight: bold;
+}
+
+div.ttip-div
+{
+	position: absolute;
+	border: 1px solid #000000;
+	padding: 4px;
+	background-color: #FFFFFF;
+	font-family: arial;
+	font-size: 12px;
+}
